@@ -49,18 +49,10 @@
 <hr />
 
 ## 📈 Estatísticas
-### Profissional
+### Profissional e Pessoal
 
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jacksongraff-biopark&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksongraff-biopark&hide_border=true&theme=dark&show_icons=true" />
-</p>
-
-### Pessoal
-
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jrgraff&count_private=true&theme=dark&show_icons=true" alt="amankrx" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jrgraff&hide_border=true&theme=dark&show_icons=true" />
 </p>
