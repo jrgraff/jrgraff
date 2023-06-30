@@ -16,7 +16,7 @@
 <p>👋 &nbsp;Opa! Sou Jackson, Desenvolvedor Web Fullstack.</p>
 <p>🔍 &nbsp;Formado em Sistema de Informação, pós graduado em Gestão Ágil de Projetos.</p>
 <p>🚀 &nbsp;Experiência com ReactJS, Node.js, Typescript, Javascript, PostgreSQL e MongoDB.</p>
-<p>🌱 &nbsp;Atualmente estudando DevOps, Python, Django e arquitetura de software.</p>
+<p>🌱 &nbsp;Atualmente estudando desenvolvimento cloud e alguns outros frameworks javascript.</p>
 
 <br />
 <p align="center">
@@ -39,20 +39,11 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![HTML](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
-![HTML](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 
-<hr />
-
-## 📈 Estatísticas
-### Profissional e Pessoal
-
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksongraff-biopark&hide_border=true&theme=dark&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jrgraff&hide_border=true&theme=dark&show_icons=true" />
-</p>
