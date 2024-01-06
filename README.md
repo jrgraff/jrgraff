@@ -2,9 +2,6 @@
 	<a href="https://www.linkedin.com/in/jrgraff/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  <a href="https://github.com/jacksongraff-biopark">
-		<img src="https://img.shields.io/badge/Github%20Profissional-808080?style=for-the-badge&logo=github&logoColor=white" />
-	</a>
 </p>
 
 <p align="center">
